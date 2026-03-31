@@ -8,18 +8,26 @@ Sou apaixonado por resolver problemas complexos através do código e da lógica
 
 ### 🛠️ No que estou trabalhando agora?
 - 💼 **Estúdio SaaS**: Uma plataforma completa de gestão para estúdios de beleza e tatuagem com arquitetura Multi-Tenant.
-- 🎓 **Finalizando minha graduação em GTI**
-- 🎓 **Mergulhando fundo nos cálculos da graduação em Licenciatura em Matemática**.
+- 🎓 **Finalizando minha graduação em GTI** (Gestão de TI).
+- 🎓 **Mergulhando nos cálculos da Licenciatura em Matemática**.
 
 ---
 
 ### 💻 Minha Stack & Ferramentas
 
-![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![CorelDraw](https://img.shields.io/badge/Corel%20Draw-004A2F?style=for-the-badge&logo=coreldraw&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Corel%20Draw-004A2F?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDraw" />
+</p>
 
 ---
