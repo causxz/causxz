@@ -7,7 +7,7 @@ Sou apaixonado por resolver problemas complexos através do código e da lógica
 ---
 
 ### 🛠️ No que estou trabalhando agora?
-- 💼 **Estúdio SaaS**: Uma plataforma completa de gestão para estúdios de beleza e tatuagem com arquitetura Multi-Tenant.
+- 💼 **Estúdio SaaS**: Uma plataforma completa de gestão para estúdios de lash design com arquitetura Multi-Tenant.
 - 🎓 **Finalizando minha graduação em GTI** (Gestão de TI).
 - 🎓 **Mergulhando nos cálculos da Licenciatura em Matemática**.
 
