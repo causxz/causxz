@@ -1,6 +1,6 @@
 # Olá, eu sou o Cauã! 👋 🇧🇷
 
-### 🚀 Desenvolvedor Fullstack | Estudante de Gestão de TI & Matemática
+### 🚀 Desenvolvedor Fullstack | Estudante de Gestão de TI
 
 Sou apaixonado por resolver problemas complexos através do código e da lógica. Atualmente, trabalho na área de **Help Desk** enquanto desenvolvo soluções escaláveis como o meu **Estúdio SaaS**, landing pages e me aventuro no desenvolvimento de jogos.
 
